@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\xenid\OneDrive\DataMining\E16095_Browser\Browser\.metadata\.plugins\org.eclipse.jdt.core
+2872044937.index
+3350691174.index
